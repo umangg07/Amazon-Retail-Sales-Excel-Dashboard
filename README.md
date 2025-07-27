@@ -2,7 +2,7 @@
 
 This project is an Excel-based dashboard that visualizes and analyzes Amazon's retail sales data. It is designed to help users gain quick insights into sales performance, category-wise trends, and monthly revenue breakdowns using interactive visuals and KPIs.
 
-![Library_project](https://github.com/umangg07/Umang-LIbrary-Management-Project/blob/main/erd.jpg)
+![Dashboard Preview](Dashboard.jpg)
 
 ## 📁 File Included
 
